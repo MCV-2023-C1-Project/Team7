@@ -22,3 +22,5 @@ Execute notebook
 ```bash
 jupyter notebook C1_W1_Group_7.ipynb
 ```
+
+Inside the notebook you will find further instructions such as the paths of the query sets.
