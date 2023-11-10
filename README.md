@@ -1,4 +1,4 @@
-# C1: Content Based Image Retrieval (Week 3)
+# C1: Content Based Image Retrieval (Week 4)
 
 ## Team 7
 - Marco Cordón
@@ -21,8 +21,8 @@ In order to perform OCR, `tesseract-ocr` must be installed locally with a packag
 
 Execute notebook
 ```bash
-cd W3/
-jupyter notebook C1_W3_Group_7.ipynb
+cd W4/
+jupyter notebook C1_W4_Group_7.ipynb
 ```
 
 Inside the notebook you will find further instructions such as the paths of the query sets.
